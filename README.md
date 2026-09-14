@@ -9,6 +9,10 @@ This repository houses the analysis and metadata behind the following publicatio
 > underpin necrophagous insect ecology in a deciduous subtropical forest.*
 > In preparation for Sustainable Microbiology (Oxford University Press).
 
+<p align="center">
+  <img src="_meta/example_figure.png" width="800">
+</p>
+
 It takes the QIIME 2 exports in `data/` and uses them to produce every figure and table in the manuscript + it's supplement. Raw reads and processed exports are available separately.
 
 Adult necrophagous insects were caught on decomposing rabbit carcasses at the Pineywoods Environmental Research Laboratory, Huntsville, TX, in spring 2025. Each specimen yielded an exogenous (distilled-water wash of the body surface) and endogenous (surface-sterilized homogenate) microbiota sample. The beetle *Necrodes surinamensis* was dissected into abdomen and head-thorax. Flies were extracted whole. Libraries target the 16S rRNA V4 region (515F/806R as per the EMP protocol) and were sequenced on an Illumina MiSeq (2x251 bp) across two runs (`sr64` and `sr65`).
