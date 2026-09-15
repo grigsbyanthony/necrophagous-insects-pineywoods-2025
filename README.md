@@ -22,7 +22,7 @@ Adult necrophagous insects were caught on decomposing rabbit carcasses at the Pi
 | Data | Location |
 |---|---|
 | Raw reads (177 demultiplexed libraries) | ENA study `PRJEB______` |
-| Qiita study | `______` |
+| Qiita study | `16576` |
 | Feature table, taxonomy, tree, metadata | `data/qiime2-exports/` |
 | Archived intermediate results | `data/derived/` |
 
