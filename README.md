@@ -18,12 +18,22 @@ It takes the QIIME 2 exports in `data/` and uses them to produce every figure an
 Adult necrophagous insects were caught on decomposing rabbit carcasses at the Pineywoods Environmental Research Laboratory, Huntsville, TX, in spring 2025. Each specimen yielded an exogenous (distilled-water wash of the body surface) and endogenous (surface-sterilized homogenate) microbiota sample. The beetle *Necrodes surinamensis* was dissected into abdomen and head-thorax. Flies were extracted whole. Libraries target the 16S rRNA V4 region (515F/806R as per the EMP protocol) and were sequenced on an Illumina MiSeq (2x251 bp) across two runs (`sr64` and `sr65`).
 
 ## Data availability
+
 | Data | Location |
 |---|---|
 | Raw reads (177 demultiplexed libraries) | ENA study `PRJEB______` |
 | Qiita study | `______` |
 | Feature table, taxonomy, tree, metadata | `data/qiime2-exports/` |
 | Archived intermediate results | `data/derived/` |
+
+<p align="center">
+  <a href="https://qiita.ucsd.edu/study/description/16576">
+    <img src="_meta/qiita-logo.png" width="15%" />
+  </a>
+  <a href="https://www.ebi.ac.uk/ena">
+    <img src="_meta/ebi-logo.png" width="15%" />
+  </a>
+</p>
 
 ## Files
 `data/qiime2-exports/` houses the output of the QIIME 2 2026.4 pipeline used.
